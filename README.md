@@ -1,7 +1,7 @@
 
 Hello, i am Auwal
 
-A passionate and enthusiastic frond-end web developer with 5+ years of experience. I love new challanges and new projects that help me to invest all my skills and experience into succeeding them.
+A passionate and enthusiastic frond-end web developer with 2+ years of experience. I love new challanges and new projects that help me to invest all my skills and experience into succeeding them.
 
 My Educational Background: 
 
